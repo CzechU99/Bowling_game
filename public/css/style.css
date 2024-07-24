@@ -1,0 +1,30 @@
+.game{
+    float: left;
+    width: 150px;
+    min-height: 50px;
+    margin-left: 10px;
+}
+
+.gracz{
+    width: 150px;
+    text-align: center;
+}
+
+#inputy{
+    width: 100%;
+    float: left;
+}
+
+#wynik{
+    width: 100%;
+    float: left;
+    text-align: center;
+    border: 1px dashed black;
+}
+
+#blad{
+    width: 100%;
+    float: left;
+    text-align: center;
+    border: 1px dashed black;
+}
